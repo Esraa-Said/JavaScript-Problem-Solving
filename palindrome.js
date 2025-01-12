@@ -19,3 +19,5 @@ var isPalindrome = function (x) {
 };
 
 console.log(isPalindrome(101));
+
+// time complexity is O(n)
